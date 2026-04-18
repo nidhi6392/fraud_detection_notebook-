@@ -115,18 +115,3 @@ Pandas
 Matplotlib
 Seaborn
 Scikit-learn
-▶️ How to Run
-git clone https://github.com/your-username/fraud-detection-project.git
-cd fraud-detection-project
-pip install -r requirements.txt
-jupyter notebook
-💡 Key Learnings
-Handling imbalanced datasets is critical in real-world ML
-Feature engineering > model complexity
-PR-AUC is more meaningful than accuracy in fraud detection
-Tree-based models handle nonlinear fraud patterns effectively
-🚀 Future Improvements
-Hyperparameter tuning (GridSearchCV)
-Try advanced models (XGBoost, LightGBM)
-Deploy using Streamlit
-Real-time fraud detection pipeline
